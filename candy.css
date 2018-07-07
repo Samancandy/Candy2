@@ -2,8 +2,8 @@ html{
     height: 100%;
 }
 body{
-    background: url("bg.jpg") no-repeat fixed;
-    /*background: rgb(68, 166, 211);*/
+    /*background: url("bg.jpg") no-repeat fixed;*/
+    background: rgb(68, 166, 211);
     background-size: cover;
 
     color: #fff;
